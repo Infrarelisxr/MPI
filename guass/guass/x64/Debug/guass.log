@@ -1,0 +1,8 @@
+﻿  guass.cpp
+C:\Users\15973\Desktop\大二下\并行程序设计\实验\MPI\guass\guass\guass.cpp(29,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\15973\Desktop\大二下\并行程序设计\实验\MPI\guass\guass\guass.cpp(37,40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\15973\Desktop\大二下\并行程序设计\实验\MPI\guass\guass\guass.cpp(607,12): warning C4477: “printf”: 格式字符串“%09lld”需要类型“__int64”的参数，但可变参数 2 拥有了类型“long”
+  C:\Users\15973\Desktop\大二下\并行程序设计\实验\MPI\guass\guass\guass.cpp(607,12):
+  请考虑在格式字符串中使用“%ld”
+  
+  guass.vcxproj -> C:\Users\15973\Desktop\大二下\并行程序设计\实验\MPI\guass\x64\Debug\guass.exe
